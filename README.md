@@ -1,5 +1,5 @@
 <h1 align="center">🌐 Hi there, I'm [Phan Minh Huy]</h1>
-<h3 align="center">Aspiring Network Engineer | CCNA Learner | Linux & Networking Enthusiast</h3>
+<h3 align="center"> Network Engineer | CCNA | Linux & Networking </h3>
 
 ---
 
