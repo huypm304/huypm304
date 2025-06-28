@@ -5,7 +5,7 @@
 
 ## 💡 About Me
 
-I'm a third-year student passionate about **computer networks, systems administration, and cybersecurity**. I enjoy building and configuring networks in tools like Packet Tracer and GNS3, and analyzing packets with Wireshark. Currently preparing for the **CCNA certification**.
+I'm a third-year Electronics and Telecommunications student passionate about **computer networks**, **systems administration**, and **cybersecurity**. I enjoy building and configuring networks using tools like **Packet Tracer** and **GNS3**, and analyzing network traffic with **Wireshark**. I'm currently preparing for the **CCNA certification** to deepen my knowledge and practical skills in networking.
 
 ---
 
