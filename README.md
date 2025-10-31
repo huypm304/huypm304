@@ -1,41 +1,12 @@
 <h1 align="center">🌐 Hi there, I'm [Phan Minh Huy]</h1>
-<h3 align="center"> Network Engineer | CCNA | Linux & Networking </h3>
 
 ---
 
 ## 💡 About Me
 
-I'm a third-year Electronics and Telecommunications student passionate about **computer networks**, **systems administration**, and **cybersecurity**. I enjoy building and configuring networks using tools like **Packet Tracer** and **GNS3**, and analyzing network traffic with **Wireshark**. I'm currently preparing for the **CCNA certification** to deepen my knowledge and practical skills in networking.
+I'm a third-year Electronics and Telecommunications student passionate about computer networks, systems administration, and cybersecurity. My background in networking (Packet Tracer, GNS3, Wireshark) and Linux administration provides a strong foundation for building reliable systems.
 
----
-
-## 🧰 Tools & Technologies
-
-- 🛠️ **Cisco Packet Tracer** (for routing/switching labs)
-- 🔌 **GNS3** (advanced network simulations)
-- 📡 **Wireshark** (protocol analysis and packet capture)
-- 🐧 **Linux CLI** (networking tools & scripting)
-- 🧪 **Bash** (simple automation scripts)
-
----
-
-## 🎯 Learning Progress
-
-- ✅ OSI & TCP/IP models
-- ✅ Subnetting & VLSM
-- ✅ VLAN, STP, Trunking
-- ✅ Static & Dynamic Routing (RIP, OSPF)
-- ✅ NAT, DHCP, ACL
-- ✅ SSH, Telnet, Linux CLI
-
----
-
-## 📘 Currently Learning
-
-- 🔄 BGP & EIGRP basics
-- 🔐 Network security fundamentals (firewall, VPN)
-- ☁️ Basics of cloud networking (AWS/VPC)
-- 📜 Bash scripting for automation
+This passion for systems and automation has led me to DevOps, where I focus on building, automating, and monitoring CI/CD pipelines.
 
 ---
 
