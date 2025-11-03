@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Hi there, I'm [Phan Minh Huy]</h1>
+<h1 align="center">Hi there, I'm Phan Minh Huy</h1>
 
 ---
 
